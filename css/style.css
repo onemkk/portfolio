@@ -1,0 +1,28 @@
+.hero_write{
+    margin-top: 8rem;
+}
+.hero_desc{
+    line-height: 20px;
+    margin-top: 1rem;
+}
+.proficience{
+    margin-top: 3rem;
+    font-weight: 700;
+}
+
+.hero_half{
+    margin-top: 4rem;
+}
+
+#background2 {
+    /* The image used */
+    background-image: url("../images/valedict.png");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
